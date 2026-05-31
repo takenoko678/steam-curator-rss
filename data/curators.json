@@ -10,5 +10,11 @@
     "name": "未確認ゲーム日和",
     "url": "https://store.steampowered.com/curator/20310661-未確認ゲーム日和/",
     "rss_file": "unconfirmed-games.xml"
+  },
+  {
+    "id": "32686107",
+    "name": "Steam 250",
+    "url": "https://store.steampowered.com/curator/32686107-Steam-250/",
+    "rss_file": "Steam-250.xml"
   }
 ]
