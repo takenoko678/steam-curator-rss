@@ -61,7 +61,7 @@ def create_index_html(curators: list) -> str:
 """
 
     for curator in curators:
-        feed_url = f"https://raw.githubusercontent.com/{{GITHUB_USER}}/steam-curator-rss/main/docs/feeds/{curator['rss_file']}"
+        feed_url = f"https://raw.githubusercontent.com/takenoko678/steam-curator-rss/main/docs/feeds/{curator['rss_file']}"
         html += f"""        <li class="feed-item">
             <strong>{curator['name']}</strong><br>
             <a href="{curator['url']}" target="_blank">キュレーターページ</a> |
