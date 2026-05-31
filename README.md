@@ -1,3 +1,6 @@
+# AI GENERATED SLOP INCOMPLETE
+
+
 # Steam Curator RSS Generator
 
 Steamキュレーターページの新しいレコメンデーションをRSSフィードで配信するプロジェクト。
