@@ -7,76 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 31 May 2026 18:37:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 02:13:08 +0000</lastBuildDate>
     <item>
-      <title>TetherGeist</title>
-      <link>https://store.steampowered.com/app/2474430</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2474430/d917674ba0c744ac89230264c63b926b374b39c4/header_292x136.jpg?t=1779417101" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2474430</guid>
-      <pubDate>Sun, 31 May 2026 18:37:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>BastionOS</title>
-      <link>https://store.steampowered.com/app/4090270</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4090270/138845d5ce44f0518e267daf4ef4ea3a743af624/header_292x136.jpg?t=1777547296" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4090270</guid>
-      <pubDate>Sun, 31 May 2026 18:37:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Puzzling Places - 3D Jigsaw Sim</title>
-      <link>https://store.steampowered.com/app/3530820</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3530820/60ee1e9ebd23297b67cd44a30288199a20186081/header_292x136.jpg?t=1779966688" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3530820</guid>
-      <pubDate>Sun, 31 May 2026 18:37:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Core Awaken Rurumu's will</title>
-      <link>https://store.steampowered.com/app/2963320</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2963320/973f0c8b2715e99ac8b89371a987bcea10733963/header_292x136.jpg?t=1777536028" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2963320</guid>
-      <pubDate>Sun, 31 May 2026 18:37:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mayor May Knott</title>
-      <link>https://store.steampowered.com/app/2377450</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2377450/header_292x136.jpg?t=1779380099" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2377450</guid>
-      <pubDate>Sun, 31 May 2026 18:37:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elfie: A Sand Plan</title>
-      <link>https://store.steampowered.com/app/3784760</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3784760/6a850c66e85ac195371695fd72ac24e5fd919423/header_292x136.jpg?t=1779592109" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3784760</guid>
-      <pubDate>Sun, 31 May 2026 18:37:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Redacted] The Safehouse</title>
-      <link>https://store.steampowered.com/app/403620</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/403620/de4167ba19150f58bc1807c17fde298b3d2eebc1/header_292x136.jpg?t=1776113997" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/403620</guid>
-      <pubDate>Sun, 31 May 2026 18:37:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>RUNNING TRAIN | 走ル列車！</title>
-      <link>https://store.steampowered.com/app/4630570</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4630570/59d75b8993423c4e710d2b1ff377e682a6b7f810/header_292x136.jpg?t=1780242360" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4630570</guid>
-      <pubDate>Sun, 31 May 2026 18:37:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schrodinger's Cat Burglar</title>
-      <link>https://store.steampowered.com/app/2111550</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2111550/fce719144a3abd16ce110c0277af94e3e86d25a5/header_292x136.jpg?t=1779919844" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2111550</guid>
-      <pubDate>Sun, 31 May 2026 18:37:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Control, I'm Not Coming Back</title>
-      <link>https://store.steampowered.com/app/4515660</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4515660/4e7f6f7276749c6f97cf7a31bf9b0fa8254b6c8f/header_292x136.jpg?t=1780043402" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4515660</guid>
-      <pubDate>Sun, 31 May 2026 18:37:43 +0000</pubDate>
+      <title>Dread Fields</title>
+      <link>https://store.steampowered.com/app/4258770</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258770/12e9cae8e67895f9d51767612ab9ad3bfd5e1044/header_292x136.jpg?t=1780238052" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4258770</guid>
+      <pubDate>Tue, 02 Jun 2026 02:13:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
