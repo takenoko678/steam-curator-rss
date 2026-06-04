@@ -7,83 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 31 May 2026 18:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 02:27:53 +0000</lastBuildDate>
     <item>
-      <title>Farever</title>
-      <link>https://store.steampowered.com/app/3672400</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3672400/ff981ed8998cc1ecbb10bd0badcf3a5e2b1c2193/header_292x136_alt_assets_1.jpg?t=1780061307" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3672400</guid>
-      <pubDate>Sun, 31 May 2026 18:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cinderia</title>
-      <link>https://store.steampowered.com/app/4160210</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3214610/fa3f3ed3d74bc05798082d54eb03e35cfbb05173/header.jpg?t=1779860030" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4160210</guid>
-      <pubDate>Sun, 31 May 2026 18:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cinderia</title>
-      <link>https://store.steampowered.com/app/3615160</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3214610/fa3f3ed3d74bc05798082d54eb03e35cfbb05173/header.jpg?t=1779860030" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3615160</guid>
-      <pubDate>Sun, 31 May 2026 18:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cinderia</title>
-      <link>https://store.steampowered.com/app/2624670</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3214610/fa3f3ed3d74bc05798082d54eb03e35cfbb05173/header.jpg?t=1779860030" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2624670</guid>
-      <pubDate>Sun, 31 May 2026 18:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cinderia</title>
-      <link>https://store.steampowered.com/app/3440840</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3214610/fa3f3ed3d74bc05798082d54eb03e35cfbb05173/header.jpg?t=1779860030" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3440840</guid>
-      <pubDate>Sun, 31 May 2026 18:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cinderia</title>
-      <link>https://store.steampowered.com/app/3214610</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3214610/fa3f3ed3d74bc05798082d54eb03e35cfbb05173/header.jpg?t=1779860030" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3214610</guid>
-      <pubDate>Sun, 31 May 2026 18:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>F.A.R.M.S.: Chill Factory</title>
-      <link>https://store.steampowered.com/app/3265700</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4302160/cd4ce80f9d616506cbd3c3c5696b8a8aa6e1faf5/header.jpg?t=1779794108" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3265700</guid>
-      <pubDate>Sun, 31 May 2026 18:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>F.A.R.M.S.: Chill Factory</title>
-      <link>https://store.steampowered.com/app/4197610</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4302160/cd4ce80f9d616506cbd3c3c5696b8a8aa6e1faf5/header.jpg?t=1779794108" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4197610</guid>
-      <pubDate>Sun, 31 May 2026 18:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>F.A.R.M.S.: Chill Factory</title>
-      <link>https://store.steampowered.com/app/2576200</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4302160/cd4ce80f9d616506cbd3c3c5696b8a8aa6e1faf5/header.jpg?t=1779794108" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2576200</guid>
-      <pubDate>Sun, 31 May 2026 18:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>F.A.R.M.S.: Chill Factory</title>
-      <link>https://store.steampowered.com/app/4445060</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4302160/cd4ce80f9d616506cbd3c3c5696b8a8aa6e1faf5/header.jpg?t=1779794108" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4445060</guid>
-      <pubDate>Sun, 31 May 2026 18:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>F.A.R.M.S.: Chill Factory</title>
-      <link>https://store.steampowered.com/app/4302160</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4302160/cd4ce80f9d616506cbd3c3c5696b8a8aa6e1faf5/header.jpg?t=1779794108" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4302160</guid>
-      <pubDate>Sun, 31 May 2026 18:37:42 +0000</pubDate>
+      <title>Bounty Brawl: Most Wanted</title>
+      <link>https://store.steampowered.com/app/3097510</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3097510/4c22e20a83670bb154e00ab0594e707098d8d105/header.jpg?t=1780420076" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3097510</guid>
+      <pubDate>Thu, 04 Jun 2026 02:27:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
