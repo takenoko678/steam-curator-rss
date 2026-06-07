@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Jun 2026 01:54:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 02:08:56 +0000</lastBuildDate>
     <item>
-      <title>Pronoun Palace</title>
-      <link>https://store.steampowered.com/app/3618850</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/b1a78c1fdb0ae031b42fa5f9997c70e5d4d592be/header_292x136.jpg?t=1780581654" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3618850</guid>
-      <pubDate>Sat, 06 Jun 2026 01:54:08 +0000</pubDate>
+      <title>868-BACK</title>
+      <link>https://store.steampowered.com/app/3304110</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3304110/8b803fd6b5bb2758e40983c0b26df70050dfcdbb/header_292x136.jpg?t=1780588455" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3304110</guid>
+      <pubDate>Sun, 07 Jun 2026 02:08:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gaming Burnout Treatment Center</title>
+      <link>https://store.steampowered.com/app/4521340</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4521340/d1721d481862aaf48e552a2a4e32137092b3e001/header_292x136.jpg?t=1780289757" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4521340</guid>
+      <pubDate>Sun, 07 Jun 2026 02:08:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
