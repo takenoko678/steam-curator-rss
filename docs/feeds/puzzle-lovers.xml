@@ -7,34 +7,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 02:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 02:13:21 +0000</lastBuildDate>
     <item>
-      <title>inbento</title>
-      <link>https://store.steampowered.com/app/3391740</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1567440/header_292x136.jpg?t=1762941557" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3391740</guid>
-      <pubDate>Wed, 10 Jun 2026 02:02:18 +0000</pubDate>
+      <title>The Procession to Calvary</title>
+      <link>https://store.steampowered.com/app/421050</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1071130/6c64983755c816be3f5a00c652ff681f9bd64952/header_292x136.jpg?t=1780378303" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/421050</guid>
+      <pubDate>Thu, 11 Jun 2026 02:13:21 +0000</pubDate>
     </item>
     <item>
-      <title>inbento</title>
-      <link>https://store.steampowered.com/app/435840</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1567440/header_292x136.jpg?t=1762941557" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/435840</guid>
-      <pubDate>Wed, 10 Jun 2026 02:02:18 +0000</pubDate>
+      <title>SteamWorld Dig</title>
+      <link>https://store.steampowered.com/app/115110</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252410/header_292x136.jpg?t=1750855239" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/115110</guid>
+      <pubDate>Thu, 11 Jun 2026 02:13:21 +0000</pubDate>
     </item>
     <item>
-      <title>inbento</title>
-      <link>https://store.steampowered.com/app/1567440</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1567440/header_292x136.jpg?t=1762941557" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1567440</guid>
-      <pubDate>Wed, 10 Jun 2026 02:02:18 +0000</pubDate>
+      <title>Mind Diver</title>
+      <link>https://store.steampowered.com/app/214340</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2259330/e0bf00af3bb576511490156108d9b57020d57f4f/header_292x136.jpg?t=1769612171" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/214340</guid>
+      <pubDate>Thu, 11 Jun 2026 02:13:21 +0000</pubDate>
     </item>
     <item>
-      <title>Trine 2: Complete Story</title>
-      <link>https://store.steampowered.com/app/437630</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/35720/header_292x136.jpg?t=1725007729" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/437630</guid>
-      <pubDate>Wed, 10 Jun 2026 02:02:18 +0000</pubDate>
+      <title>A Case of Fraud</title>
+      <link>https://store.steampowered.com/app/1090100</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3036350/0411c21368aac8a63cc991fd9bf1d5a1b2815086/header_292x136.jpg?t=1779838642" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1090100</guid>
+      <pubDate>Thu, 11 Jun 2026 02:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Squeakross: Home Squeak Home</title>
+      <link>https://store.steampowered.com/app/343860</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2871440/e864f365045e9ddfe0a06510f2394fe27ff3e30c/header_292x136.jpg?t=1775266109" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/343860</guid>
+      <pubDate>Thu, 11 Jun 2026 02:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Talos Principle</title>
+      <link>https://store.steampowered.com/app/2109270</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/257510/header_292x136.jpg?t=1744327639" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2109270</guid>
+      <pubDate>Thu, 11 Jun 2026 02:13:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
