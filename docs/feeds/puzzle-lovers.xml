@@ -7,34 +7,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 02:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 01:58:46 +0000</lastBuildDate>
     <item>
-      <title>Stephen's Sausage Roll</title>
-      <link>https://store.steampowered.com/app/353540</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353540/header_292x136.jpg?t=1771057612" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/353540</guid>
-      <pubDate>Wed, 01 Jul 2026 02:05:31 +0000</pubDate>
+      <title>Hidden Object Greed Collection</title>
+      <link>https://store.steampowered.com/app/4293990</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293990/0383180e3edcea082b641ec1d498fd7a314d1888/header_292x136.jpg?t=1771320772" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4293990</guid>
+      <pubDate>Thu, 02 Jul 2026 01:58:46 +0000</pubDate>
     </item>
     <item>
-      <title>TerraScape</title>
-      <link>https://store.steampowered.com/app/228360</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290000/header_292x136.jpg?t=1781267160" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/228360</guid>
-      <pubDate>Wed, 01 Jul 2026 02:05:31 +0000</pubDate>
+      <title>Stephen's Sausage Roll</title>
+      <link>https://store.steampowered.com/app/368370</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353540/header_292x136.jpg?t=1771057612" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/368370</guid>
+      <pubDate>Thu, 02 Jul 2026 01:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gorogoa</title>
+      <link>https://store.steampowered.com/app/404680</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/header_292x136.jpg?t=1729099787" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/404680</guid>
+      <pubDate>Thu, 02 Jul 2026 01:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gorogoa</title>
+      <link>https://store.steampowered.com/app/557600</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/header_292x136.jpg?t=1729099787" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/557600</guid>
+      <pubDate>Thu, 02 Jul 2026 01:58:46 +0000</pubDate>
     </item>
     <item>
       <title>Hidden Folks</title>
-      <link>https://store.steampowered.com/app/3586660</link>
+      <link>https://store.steampowered.com/app/2653470</link>
       <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/header_292x136.jpg?t=1772365053" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3586660</guid>
-      <pubDate>Wed, 01 Jul 2026 02:05:31 +0000</pubDate>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2653470</guid>
+      <pubDate>Thu, 02 Jul 2026 01:58:46 +0000</pubDate>
     </item>
     <item>
-      <title>World of Goo</title>
-      <link>https://store.steampowered.com/app/22000</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22000/header_292x136.jpg?t=1764881559" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/22000</guid>
-      <pubDate>Wed, 01 Jul 2026 02:05:31 +0000</pubDate>
+      <title>Hidden Folks</title>
+      <link>https://store.steampowered.com/app/300570</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/header_292x136.jpg?t=1772365053" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/300570</guid>
+      <pubDate>Thu, 02 Jul 2026 01:58:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
