@@ -7,48 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 01:58:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 01:30:09 +0000</lastBuildDate>
     <item>
-      <title>Hidden Object Greed Collection</title>
-      <link>https://store.steampowered.com/app/4293990</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293990/0383180e3edcea082b641ec1d498fd7a314d1888/header_292x136.jpg?t=1771320772" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4293990</guid>
-      <pubDate>Thu, 02 Jul 2026 01:58:46 +0000</pubDate>
+      <title>Gone Home</title>
+      <link>https://store.steampowered.com/app/370360</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/232430/header_292x136.jpg?t=1756162182" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/370360</guid>
+      <pubDate>Fri, 03 Jul 2026 01:30:09 +0000</pubDate>
     </item>
     <item>
-      <title>Stephen's Sausage Roll</title>
-      <link>https://store.steampowered.com/app/368370</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353540/header_292x136.jpg?t=1771057612" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/368370</guid>
-      <pubDate>Thu, 02 Jul 2026 01:58:46 +0000</pubDate>
+      <title>Gone Home</title>
+      <link>https://store.steampowered.com/app/232430</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/232430/header_292x136.jpg?t=1756162182" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/232430</guid>
+      <pubDate>Fri, 03 Jul 2026 01:30:09 +0000</pubDate>
     </item>
     <item>
-      <title>Gorogoa</title>
-      <link>https://store.steampowered.com/app/404680</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/header_292x136.jpg?t=1729099787" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/404680</guid>
-      <pubDate>Thu, 02 Jul 2026 01:58:46 +0000</pubDate>
+      <title>Infinifactory</title>
+      <link>https://store.steampowered.com/app/2702170</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/300570/header_292x136.jpg?t=1667071348" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2702170</guid>
+      <pubDate>Fri, 03 Jul 2026 01:30:09 +0000</pubDate>
     </item>
     <item>
-      <title>Gorogoa</title>
-      <link>https://store.steampowered.com/app/557600</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/header_292x136.jpg?t=1729099787" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/557600</guid>
-      <pubDate>Thu, 02 Jul 2026 01:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hidden Folks</title>
-      <link>https://store.steampowered.com/app/2653470</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/header_292x136.jpg?t=1772365053" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2653470</guid>
-      <pubDate>Thu, 02 Jul 2026 01:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hidden Folks</title>
-      <link>https://store.steampowered.com/app/300570</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/header_292x136.jpg?t=1772365053" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/300570</guid>
-      <pubDate>Thu, 02 Jul 2026 01:58:46 +0000</pubDate>
+      <title>Last Call BBS</title>
+      <link>https://store.steampowered.com/app/1511780</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1511780/header_292x136.jpg?t=1659547275" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1511780</guid>
+      <pubDate>Fri, 03 Jul 2026 01:30:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

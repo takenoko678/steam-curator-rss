@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 01:58:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 01:30:13 +0000</lastBuildDate>
     <item>
-      <title>Clock Rogue</title>
-      <link>https://store.steampowered.com/app/2812120</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812120/9ac714398cfa0dd58077eea4fd07ce3e66d0af75/header_292x136.jpg?t=1782377611" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2812120</guid>
-      <pubDate>Thu, 02 Jul 2026 01:58:51 +0000</pubDate>
+      <title>GAL VS VILLAGE</title>
+      <link>https://store.steampowered.com/app/4102700</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4102700/c01fd03a885176f09bc91a6b0756f97b084ec786/header_292x136.jpg?t=1773240316" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4102700</guid>
+      <pubDate>Fri, 03 Jul 2026 01:30:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sparedevil</title>
+      <link>https://store.steampowered.com/app/2960500</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2960500/15c78903f7943992b15119603edecea563c674ae/header_292x136.jpg?t=1770857288" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2960500</guid>
+      <pubDate>Fri, 03 Jul 2026 01:30:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
