@@ -7,41 +7,41 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Jul 2026 01:51:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 01:47:58 +0000</lastBuildDate>
+    <item>
+      <title>Gorogoa</title>
+      <link>https://store.steampowered.com/app/232430</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/557600/header_292x136.jpg?t=1729099787" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/232430</guid>
+      <pubDate>Tue, 07 Jul 2026 01:47:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>TerraScape</title>
+      <link>https://store.steampowered.com/app/3444650</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2290000/header_292x136.jpg?t=1781267160" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3444650</guid>
+      <pubDate>Tue, 07 Jul 2026 01:47:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>TerraScape</title>
+      <link>https://store.steampowered.com/app/228360</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2290000/header_292x136.jpg?t=1781267160" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/228360</guid>
+      <pubDate>Tue, 07 Jul 2026 01:47:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>TerraScape</title>
+      <link>https://store.steampowered.com/app/40700</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2290000/header_292x136.jpg?t=1781267160" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/40700</guid>
+      <pubDate>Tue, 07 Jul 2026 01:47:58 +0000</pubDate>
+    </item>
     <item>
       <title>World of Goo</title>
-      <link>https://store.steampowered.com/app/1202900</link>
+      <link>https://store.steampowered.com/app/388210</link>
       <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22000/header_292x136.jpg?t=1764881559" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1202900</guid>
-      <pubDate>Mon, 06 Jul 2026 01:51:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hob</title>
-      <link>https://store.steampowered.com/app/3586660</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/404680/header_292x136.jpg?t=1781884378" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3586660</guid>
-      <pubDate>Mon, 06 Jul 2026 01:51:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hob</title>
-      <link>https://store.steampowered.com/app/1820620</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/404680/header_292x136.jpg?t=1781884378" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1820620</guid>
-      <pubDate>Mon, 06 Jul 2026 01:51:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strange Jigsaws</title>
-      <link>https://store.steampowered.com/app/1158470</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2702170/fb48930b7cd516449aaabda3c92b80cd6aae8ed5/header_292x136.jpg?t=1770906631" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1158470</guid>
-      <pubDate>Mon, 06 Jul 2026 01:51:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>INFRA</title>
-      <link>https://store.steampowered.com/app/1819460</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/251110/header_292x136.jpg?t=1779030500" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1819460</guid>
-      <pubDate>Mon, 06 Jul 2026 01:51:10 +0000</pubDate>
+      <guid isPermaLink="false">https://store.steampowered.com/app/388210</guid>
+      <pubDate>Tue, 07 Jul 2026 01:47:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
