@@ -7,41 +7,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 01:47:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 01:20:22 +0000</lastBuildDate>
+    <item>
+      <title>Logic Town</title>
+      <link>https://store.steampowered.com/app/2333240</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2333240/header_292x136.jpg?t=1782808210" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2333240</guid>
+      <pubDate>Wed, 08 Jul 2026 01:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bento Blocks</title>
+      <link>https://store.steampowered.com/app/2291850</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3311670/ea328300a6ae6a56b018c711fc67c1e6b02a5905/header_292x136.jpg?t=1777871570" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2291850</guid>
+      <pubDate>Wed, 08 Jul 2026 01:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bento Blocks</title>
+      <link>https://store.steampowered.com/app/3083300</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3311670/ea328300a6ae6a56b018c711fc67c1e6b02a5905/header_292x136.jpg?t=1777871570" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3083300</guid>
+      <pubDate>Wed, 08 Jul 2026 01:20:22 +0000</pubDate>
+    </item>
     <item>
       <title>Gorogoa</title>
-      <link>https://store.steampowered.com/app/232430</link>
+      <link>https://store.steampowered.com/app/300570</link>
       <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/557600/header_292x136.jpg?t=1729099787" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/232430</guid>
-      <pubDate>Tue, 07 Jul 2026 01:47:58 +0000</pubDate>
+      <guid isPermaLink="false">https://store.steampowered.com/app/300570</guid>
+      <pubDate>Wed, 08 Jul 2026 01:20:22 +0000</pubDate>
     </item>
     <item>
-      <title>TerraScape</title>
-      <link>https://store.steampowered.com/app/3444650</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2290000/header_292x136.jpg?t=1781267160" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3444650</guid>
-      <pubDate>Tue, 07 Jul 2026 01:47:58 +0000</pubDate>
+      <title>Gorogoa</title>
+      <link>https://store.steampowered.com/app/1819460</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/557600/header_292x136.jpg?t=1729099787" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1819460</guid>
+      <pubDate>Wed, 08 Jul 2026 01:20:22 +0000</pubDate>
     </item>
     <item>
-      <title>TerraScape</title>
-      <link>https://store.steampowered.com/app/228360</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2290000/header_292x136.jpg?t=1781267160" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/228360</guid>
-      <pubDate>Tue, 07 Jul 2026 01:47:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>TerraScape</title>
-      <link>https://store.steampowered.com/app/40700</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2290000/header_292x136.jpg?t=1781267160" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/40700</guid>
-      <pubDate>Tue, 07 Jul 2026 01:47:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>World of Goo</title>
-      <link>https://store.steampowered.com/app/388210</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22000/header_292x136.jpg?t=1764881559" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/388210</guid>
-      <pubDate>Tue, 07 Jul 2026 01:47:58 +0000</pubDate>
+      <title>Isles of Sea and Sky</title>
+      <link>https://store.steampowered.com/app/1779030</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1233070/header_292x136.jpg?t=1767942918" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1779030</guid>
+      <pubDate>Wed, 08 Jul 2026 01:20:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
