@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 01:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 01:25:45 +0000</lastBuildDate>
     <item>
-      <title>One More 6ix</title>
-      <link>https://store.steampowered.com/app/4168750</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4168750/85db8f9c0f18eea3e643a0f82f4d4f65d09f269a/header_292x136_alt_assets_0.jpg?t=1774021553" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4168750</guid>
-      <pubDate>Wed, 08 Jul 2026 01:20:27 +0000</pubDate>
+      <title>Mala Petaka</title>
+      <link>https://store.steampowered.com/app/2104460</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2104460/header_292x136.jpg?t=1767843807" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2104460</guid>
+      <pubDate>Fri, 10 Jul 2026 01:25:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
