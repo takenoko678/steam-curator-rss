@@ -7,76 +7,195 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Jul 2026 01:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 01:11:49 +0000</lastBuildDate>
     <item>
-      <title>Out There Somewhere</title>
-      <link>https://store.steampowered.com/app/1798540</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/263980/header_292x136.jpg?t=1756075007" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1798540</guid>
-      <pubDate>Mon, 13 Jul 2026 01:22:32 +0000</pubDate>
+      <title>Insight</title>
+      <link>https://store.steampowered.com/app/1589920</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1602980/header_292x136.jpg?t=1682789411" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1589920</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
     </item>
     <item>
-      <title>Before Exit: Supermarket</title>
-      <link>https://store.steampowered.com/app/1899950</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983730/header_292x136.jpg?t=1782284379" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1899950</guid>
-      <pubDate>Mon, 13 Jul 2026 01:22:32 +0000</pubDate>
+      <title>Insight</title>
+      <link>https://store.steampowered.com/app/1602980</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1602980/header_292x136.jpg?t=1682789411" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1602980</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
     </item>
     <item>
-      <title>Before Exit: Supermarket</title>
-      <link>https://store.steampowered.com/app/2655740</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983730/header_292x136.jpg?t=1782284379" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2655740</guid>
-      <pubDate>Mon, 13 Jul 2026 01:22:32 +0000</pubDate>
+      <title>The Forgotten Land</title>
+      <link>https://store.steampowered.com/app/373860</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1099460/header_292x136.jpg?t=1725373302" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/373860</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
     </item>
     <item>
-      <title>Before Exit: Supermarket</title>
-      <link>https://store.steampowered.com/app/1846710</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983730/header_292x136.jpg?t=1782284379" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1846710</guid>
-      <pubDate>Mon, 13 Jul 2026 01:22:32 +0000</pubDate>
+      <title>The Forgotten Land</title>
+      <link>https://store.steampowered.com/app/2751220</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1099460/header_292x136.jpg?t=1725373302" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2751220</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
     </item>
     <item>
-      <title>Secrets of Salem: The Phantom Cab Collector's Edition</title>
-      <link>https://store.steampowered.com/app/3570040</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855990/675a00b2242237a05e9a782cedd1a0b3db31edc3/header_292x136.jpg?t=1762945956" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3570040</guid>
-      <pubDate>Mon, 13 Jul 2026 01:22:32 +0000</pubDate>
+      <title>The Forgotten Land</title>
+      <link>https://store.steampowered.com/app/1099460</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1099460/header_292x136.jpg?t=1725373302" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1099460</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Globesweeper</title>
+      <link>https://store.steampowered.com/app/266010</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/982220/header_292x136.jpg?t=1764792376" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/266010</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Globesweeper</title>
+      <link>https://store.steampowered.com/app/820910</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/982220/header_292x136.jpg?t=1764792376" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/820910</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Globesweeper</title>
+      <link>https://store.steampowered.com/app/982220</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/982220/header_292x136.jpg?t=1764792376" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/982220</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>CatBox</title>
+      <link>https://store.steampowered.com/app/933860</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2655740/header_292x136.jpg?t=1741227030" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/933860</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>CatBox</title>
+      <link>https://store.steampowered.com/app/3348100</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2655740/header_292x136.jpg?t=1741227030" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3348100</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Inner World</title>
+      <link>https://store.steampowered.com/app/1375930</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/251430/header_292x136.jpg?t=1717679220" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1375930</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Inner World</title>
+      <link>https://store.steampowered.com/app/1502800</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/251430/header_292x136.jpg?t=1717679220" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1502800</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
     </item>
     <item>
       <title>Chessarama</title>
-      <link>https://store.steampowered.com/app/435840</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1831830/header_292x136.jpg?t=1745518342" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/435840</guid>
-      <pubDate>Mon, 13 Jul 2026 01:22:32 +0000</pubDate>
+      <link>https://store.steampowered.com/app/3194140</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1831830/header_292x136.jpg?t=1745518342" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3194140</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
     </item>
     <item>
-      <title>Everafter Falls</title>
-      <link>https://store.steampowered.com/app/1071130</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416960/3b1d7f63c4960ef993a7535f3d9774985eba1bb5/header_292x136.jpg?t=1780500568" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1071130</guid>
-      <pubDate>Mon, 13 Jul 2026 01:22:32 +0000</pubDate>
+      <title>Chessarama</title>
+      <link>https://store.steampowered.com/app/3812620</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1831830/header_292x136.jpg?t=1745518342" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3812620</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
     </item>
     <item>
-      <title>Everafter Falls</title>
-      <link>https://store.steampowered.com/app/503400</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416960/3b1d7f63c4960ef993a7535f3d9774985eba1bb5/header_292x136.jpg?t=1780500568" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/503400</guid>
-      <pubDate>Mon, 13 Jul 2026 01:22:32 +0000</pubDate>
+      <title>Please Fix The Road</title>
+      <link>https://store.steampowered.com/app/290770</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1383250/header_292x136.jpg?t=1753962709" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/290770</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
     </item>
     <item>
-      <title>Everafter Falls</title>
-      <link>https://store.steampowered.com/app/1416960</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416960/3b1d7f63c4960ef993a7535f3d9774985eba1bb5/header_292x136.jpg?t=1780500568" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1416960</guid>
-      <pubDate>Mon, 13 Jul 2026 01:22:32 +0000</pubDate>
+      <title>Please Fix The Road</title>
+      <link>https://store.steampowered.com/app/3162020</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1383250/header_292x136.jpg?t=1753962709" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3162020</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Please Fix The Road</title>
+      <link>https://store.steampowered.com/app/1383250</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1383250/header_292x136.jpg?t=1753962709" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1383250</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Minesweeper Collector 2</title>
+      <link>https://store.steampowered.com/app/2671210</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2671210/header_292x136.jpg?t=1774833918" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2671210</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Faerie Solitaire Remastered</title>
+      <link>https://store.steampowered.com/app/593900</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/583930/header_292x136.jpg?t=1762035742" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/593900</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Faerie Solitaire Remastered</title>
+      <link>https://store.steampowered.com/app/2328730</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/583930/header_292x136.jpg?t=1762035742" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2328730</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Faerie Solitaire Remastered</title>
+      <link>https://store.steampowered.com/app/583930</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/583930/header_292x136.jpg?t=1762035742" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/583930</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 11th Hour</title>
+      <link>https://store.steampowered.com/app/2693530</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/255940/header_292x136.jpg?t=1774276903" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2693530</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 11th Hour</title>
+      <link>https://store.steampowered.com/app/3215290</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/255940/header_292x136.jpg?t=1774276903" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3215290</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 11th Hour</title>
+      <link>https://store.steampowered.com/app/255940</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/255940/header_292x136.jpg?t=1774276903" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/255940</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Four Last Things</title>
+      <link>https://store.steampowered.com/app/2830480</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/503400/69fb254527c1594516f4388a64dea432ce8e72be/header_292x136.jpg?t=1780378088" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2830480</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Darkside Detective</title>
+      <link>https://store.steampowered.com/app/287020</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368390/bfb030ac13b9fd3d465ec3f1ec5a646e7acbd737/header_292x136.jpg?t=1769535266" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/287020</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
     </item>
     <item>
       <title>Lorelei and the Laser Eyes</title>
-      <link>https://store.steampowered.com/app/368390</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008920/a5346a6109802bb1711c391156814023073518be/header_292x136.jpg?t=1759241374" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/368390</guid>
-      <pubDate>Mon, 13 Jul 2026 01:22:32 +0000</pubDate>
+      <link>https://store.steampowered.com/app/1532200</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2008920/a5346a6109802bb1711c391156814023073518be/header_292x136.jpg?t=1759241374" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1532200</guid>
+      <pubDate>Tue, 14 Jul 2026 01:11:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
