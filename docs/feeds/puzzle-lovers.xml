@@ -7,181 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 01:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 01:17:48 +0000</lastBuildDate>
     <item>
-      <title>MASUKU</title>
-      <link>https://store.steampowered.com/app/4401050</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4401050/880a39d0df3b4e04c8ef0e0d1d51a18af048e0bf/header_292x136.jpg?t=1784535916" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4401050</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four Last Things</title>
-      <link>https://store.steampowered.com/app/2286760</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503400/69fb254527c1594516f4388a64dea432ce8e72be/header_292x136.jpg?t=1780378088" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2286760</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
+      <title>Nightmare Frames</title>
+      <link>https://store.steampowered.com/app/421050</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1650590/header_292x136.jpg?t=1729524213" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/421050</guid>
+      <pubDate>Wed, 22 Jul 2026 01:17:48 +0000</pubDate>
     </item>
     <item>
       <title>Nightmare Frames</title>
-      <link>https://store.steampowered.com/app/376520</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1650590/header_292x136.jpg?t=1729524213" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/376520</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
+      <link>https://store.steampowered.com/app/3333330</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1650590/header_292x136.jpg?t=1729524213" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3333330</guid>
+      <pubDate>Wed, 22 Jul 2026 01:17:48 +0000</pubDate>
     </item>
     <item>
-      <title>Nightmare Frames</title>
-      <link>https://store.steampowered.com/app/1955110</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1650590/header_292x136.jpg?t=1729524213" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1955110</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
+      <title>AER Memories of Old</title>
+      <link>https://store.steampowered.com/app/1696220</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/331870/header_292x136.jpg?t=1709730241" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1696220</guid>
+      <pubDate>Wed, 22 Jul 2026 01:17:48 +0000</pubDate>
     </item>
     <item>
-      <title>Nightmare Frames</title>
-      <link>https://store.steampowered.com/app/1178510</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1650590/header_292x136.jpg?t=1729524213" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1178510</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nightmare Frames</title>
-      <link>https://store.steampowered.com/app/1650590</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1650590/header_292x136.jpg?t=1729524213" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1650590</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Milkmaid of the Milky Way</title>
-      <link>https://store.steampowered.com/app/583270</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544970/header_292x136.jpg?t=1754161418" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/583270</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Milkmaid of the Milky Way</title>
-      <link>https://store.steampowered.com/app/544970</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544970/header_292x136.jpg?t=1754161418" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/544970</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kaamos: Puzzle Roguelike</title>
-      <link>https://store.steampowered.com/app/1147890</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317660/74f3eed5228d984e903f94c6cf04c071a86e3597/header_292x136.jpg?t=1779383736" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1147890</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kaamos: Puzzle Roguelike</title>
-      <link>https://store.steampowered.com/app/1029900</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317660/74f3eed5228d984e903f94c6cf04c071a86e3597/header_292x136.jpg?t=1779383736" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1029900</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kaamos: Puzzle Roguelike</title>
-      <link>https://store.steampowered.com/app/3317660</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317660/74f3eed5228d984e903f94c6cf04c071a86e3597/header_292x136.jpg?t=1779383736" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3317660</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dreamfall: The Longest Journey</title>
-      <link>https://store.steampowered.com/app/6310</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6300/header_292x136.jpg?t=1592476034" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/6310</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dreamfall: The Longest Journey</title>
-      <link>https://store.steampowered.com/app/676820</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6300/header_292x136.jpg?t=1592476034" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/676820</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dreamfall: The Longest Journey</title>
-      <link>https://store.steampowered.com/app/6300</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6300/header_292x136.jpg?t=1592476034" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/6300</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>CHUCHEL</title>
-      <link>https://store.steampowered.com/app/1082190</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/header_292x136.jpg?t=1779469361" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1082190</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>CHUCHEL</title>
-      <link>https://store.steampowered.com/app/2207440</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/header_292x136.jpg?t=1779469361" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2207440</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>CHUCHEL</title>
-      <link>https://store.steampowered.com/app/402020</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711660/header_292x136.jpg?t=1779469361" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/402020</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trine Enchanted Edition</title>
-      <link>https://store.steampowered.com/app/3451440</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35700/header_292x136.jpg?t=1758741541" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3451440</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mega Mosaic</title>
-      <link>https://store.steampowered.com/app/2333240</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915950/header_292x136.jpg?t=1750852929" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2333240</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mega Mosaic</title>
-      <link>https://store.steampowered.com/app/3352310</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915950/header_292x136.jpg?t=1750852929" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3352310</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mega Mosaic</title>
-      <link>https://store.steampowered.com/app/2915950</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915950/header_292x136.jpg?t=1750852929" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2915950</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>BOULDER DASH 40th Anniversary</title>
-      <link>https://store.steampowered.com/app/3530670</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124310/88a8d850e2e2b69fd09ab20a96f4a89969d7644f/header_292x136.jpg?t=1775931494" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3530670</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>BOULDER DASH 40th Anniversary</title>
-      <link>https://store.steampowered.com/app/3124310</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124310/88a8d850e2e2b69fd09ab20a96f4a89969d7644f/header_292x136.jpg?t=1775931494" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3124310</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mosaic of the Strange</title>
-      <link>https://store.steampowered.com/app/3444650</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3444650/d469328462a226e5d1c2c45bb1209dd0bd557492/header_292x136.jpg?t=1769871130" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3444650</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proverbs</title>
-      <link>https://store.steampowered.com/app/3083300</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3083300/header_292x136.jpg?t=1763461008" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3083300</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:05 +0000</pubDate>
+      <title>Oscuro Blossom's Glow</title>
+      <link>https://store.steampowered.com/app/3410490</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3410490/9a2725f17367978786d60ea4b6c2e719d712a247/header_292x136.jpg?t=1756235115" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3410490</guid>
+      <pubDate>Wed, 22 Jul 2026 01:17:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

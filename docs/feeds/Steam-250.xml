@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 01:19:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 01:17:52 +0000</lastBuildDate>
     <item>
-      <title>Mycelium: The Silent Contract</title>
-      <link>https://store.steampowered.com/app/3583970</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583970/e1bb1b325261a5fb8b43eb74aea44593d0be7dfb/header_292x136.jpg?t=1782748472" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3583970</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>walk</title>
-      <link>https://store.steampowered.com/app/4563880</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563880/d7186f52ff41c641171bc2d936598ea8acc4db10/header_292x136.jpg?t=1784379334" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4563880</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Database Detective: Minor Crimes Division</title>
-      <link>https://store.steampowered.com/app/3950130</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950130/ed5315c85ccaeaa8deb05aa6a91fc08e245d1e05/header_292x136.jpg?t=1784303268" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3950130</guid>
-      <pubDate>Tue, 21 Jul 2026 01:19:10 +0000</pubDate>
+      <title>MultiEnding Heroes</title>
+      <link>https://store.steampowered.com/app/3213800</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3213800/939f99dcfa3d70059abccd594c61b4fcaaa41105/header_292x136.jpg?t=1773241150" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3213800</guid>
+      <pubDate>Wed, 22 Jul 2026 01:17:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
