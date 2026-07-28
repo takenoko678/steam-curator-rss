@@ -7,55 +7,139 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 01:28:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 01:16:21 +0000</lastBuildDate>
     <item>
-      <title>The Bunker</title>
-      <link>https://store.steampowered.com/app/290260</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/481110/header_292x136.jpg?t=1780399588" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/290260</guid>
-      <pubDate>Mon, 27 Jul 2026 01:28:53 +0000</pubDate>
+      <title>State of Mind</title>
+      <link>https://store.steampowered.com/app/585840</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/437630/header_292x136.jpg?t=1770913197" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/585840</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>State of Mind</title>
+      <link>https://store.steampowered.com/app/437630</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/437630/header_292x136.jpg?t=1770913197" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/437630</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOLAS 128</title>
+      <link>https://store.steampowered.com/app/31270</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1257850/header_292x136.jpg?t=1737376744" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/31270</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOLAS 128</title>
+      <link>https://store.steampowered.com/app/1257850</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1257850/header_292x136.jpg?t=1737376744" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1257850</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observe</title>
+      <link>https://store.steampowered.com/app/3391740</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2738190/header_292x136.jpg?t=1776349436" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3391740</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observe</title>
+      <link>https://store.steampowered.com/app/2759760</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2738190/header_292x136.jpg?t=1776349436" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2759760</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observe</title>
+      <link>https://store.steampowered.com/app/2738190</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2738190/header_292x136.jpg?t=1776349436" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2738190</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ad Fundum</title>
+      <link>https://store.steampowered.com/app/351090</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2647820/header_292x136.jpg?t=1754918127" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/351090</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ad Fundum</title>
+      <link>https://store.steampowered.com/app/2260530</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2647820/header_292x136.jpg?t=1754918127" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2260530</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ad Fundum</title>
+      <link>https://store.steampowered.com/app/2647820</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2647820/header_292x136.jpg?t=1754918127" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2647820</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
     </item>
     <item>
       <title>The Bunker</title>
-      <link>https://store.steampowered.com/app/481110</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/481110/header_292x136.jpg?t=1780399588" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/481110</guid>
-      <pubDate>Mon, 27 Jul 2026 01:28:53 +0000</pubDate>
+      <link>https://store.steampowered.com/app/241910</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/481110/header_292x136.jpg?t=1780399588" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/241910</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
     </item>
     <item>
-      <title>Can't Live Without Electricity</title>
-      <link>https://store.steampowered.com/app/331870</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2337140/header_292x136.jpg?t=1775019284" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/331870</guid>
-      <pubDate>Mon, 27 Jul 2026 01:28:53 +0000</pubDate>
+      <title>The Bunker</title>
+      <link>https://store.steampowered.com/app/427490</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/481110/header_292x136.jpg?t=1780399588" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/427490</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
     </item>
     <item>
-      <title>Can't Live Without Electricity</title>
-      <link>https://store.steampowered.com/app/2337140</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2337140/header_292x136.jpg?t=1775019284" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2337140</guid>
-      <pubDate>Mon, 27 Jul 2026 01:28:53 +0000</pubDate>
+      <title>Blobun</title>
+      <link>https://store.steampowered.com/app/2259330</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3284270/header_292x136.jpg?t=1781889721" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2259330</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
     </item>
     <item>
-      <title>Botanicula</title>
-      <link>https://store.steampowered.com/app/2666840</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207690/header_292x136.jpg?t=1779469362" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2666840</guid>
-      <pubDate>Mon, 27 Jul 2026 01:28:53 +0000</pubDate>
+      <title>Blobun</title>
+      <link>https://store.steampowered.com/app/3284270</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3284270/header_292x136.jpg?t=1781889721" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3284270</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
     </item>
     <item>
-      <title>The Park®</title>
-      <link>https://store.steampowered.com/app/1955110</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/402020/header_292x136.jpg?t=1708367139" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1955110</guid>
-      <pubDate>Mon, 27 Jul 2026 01:28:53 +0000</pubDate>
+      <title>CHUCHEL</title>
+      <link>https://store.steampowered.com/app/65080</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/711660/header_292x136.jpg?t=1779469361" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/65080</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
     </item>
     <item>
-      <title>Bonfire Peaks</title>
-      <link>https://store.steampowered.com/app/220740</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147890/header_292x136.jpg?t=1781709722" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/220740</guid>
-      <pubDate>Mon, 27 Jul 2026 01:28:53 +0000</pubDate>
+      <title>CHUCHEL</title>
+      <link>https://store.steampowered.com/app/1514930</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/711660/header_292x136.jpg?t=1779469361" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1514930</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Machinarium</title>
+      <link>https://store.steampowered.com/app/2951770</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40700/header_292x136.jpg?t=1779498950" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2951770</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Machinarium</title>
+      <link>https://store.steampowered.com/app/368370</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40700/header_292x136.jpg?t=1779498950" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/368370</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dorfromantik</title>
+      <link>https://store.steampowered.com/app/4018950</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1455840/header_292x136.jpg?t=1782380923" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4018950</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
