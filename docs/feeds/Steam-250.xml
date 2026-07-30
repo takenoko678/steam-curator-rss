@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 01:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 01:12:11 +0000</lastBuildDate>
     <item>
-      <title>Dungeon Bodega Simulator</title>
-      <link>https://store.steampowered.com/app/3458180</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458180/943951847cc916c7a81cb85d492ad4b928d4a9aa/header_292x136.jpg?t=1784756788" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3458180</guid>
-      <pubDate>Wed, 29 Jul 2026 01:18:54 +0000</pubDate>
+      <title>Worlds Upon The Wind</title>
+      <link>https://store.steampowered.com/app/3640430</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3640430/d6876411116a5f3d68c1f42f01af90e7ec4132fd/header_292x136.jpg?t=1785284143" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3640430</guid>
+      <pubDate>Thu, 30 Jul 2026 01:12:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Endacopia</title>
+      <link>https://store.steampowered.com/app/2684630</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header_292x136.jpg?t=1785317935" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2684630</guid>
+      <pubDate>Thu, 30 Jul 2026 01:12:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
