@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 01:24:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 01:26:02 +0000</lastBuildDate>
     <item>
-      <title>Wormies</title>
-      <link>https://store.steampowered.com/app/4058290</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4058290/2f4eb7ffebda1710a8cf67066be524c30244977e/header_292x136.jpg?t=1778788780" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4058290</guid>
-      <pubDate>Fri, 31 Jul 2026 01:24:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tormentum II</title>
-      <link>https://store.steampowered.com/app/931060</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/931060/60cdc7248129b3a5beae4c1039e9cc84d49419ed/header_292x136.jpg?t=1784819090" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/931060</guid>
-      <pubDate>Fri, 31 Jul 2026 01:24:53 +0000</pubDate>
+      <title>Leafy Corner</title>
+      <link>https://store.steampowered.com/app/3558600</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3558600/57deed9f6c4c6a94fba79c492dda70bf2311c435/header_292x136.jpg?t=1785432023" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3558600</guid>
+      <pubDate>Sat, 01 Aug 2026 01:26:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
