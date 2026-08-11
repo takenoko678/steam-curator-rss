@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 01:24:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 00:44:03 +0000</lastBuildDate>
     <item>
-      <title>Abyss Kitchen</title>
-      <link>https://store.steampowered.com/app/3508910</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3508910/c3fb2b7b74a7b963d60abf7680b22bb0781f2186/header.jpg?t=1784861353" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3508910</guid>
-      <pubDate>Mon, 03 Aug 2026 01:24:27 +0000</pubDate>
+      <title>DEBRISVERSE</title>
+      <link>https://store.steampowered.com/app/4433730</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433730/99cdd6111b8d1f9ad147e0c50aa985fc85b96634/header.jpg?t=1786114160" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4433730</guid>
+      <pubDate>Tue, 11 Aug 2026 00:44:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
