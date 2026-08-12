@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 00:44:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 00:51:50 +0000</lastBuildDate>
     <item>
-      <title>Rita</title>
-      <link>https://store.steampowered.com/app/2984850</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2984850/1b9d73732015ed39264ebb09c4c83260626fb712/header_292x136.jpg?t=1786257219" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2984850</guid>
-      <pubDate>Tue, 11 Aug 2026 00:44:05 +0000</pubDate>
+      <title>Pot's On!</title>
+      <link>https://store.steampowered.com/app/4914600</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914600/fd50a908db48dc871dddcf8b39a7979cbab16086/header_292x136.jpg?t=1785481210" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4914600</guid>
+      <pubDate>Wed, 12 Aug 2026 00:51:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Horse Magnifier: The Full Horse</title>
+      <link>https://store.steampowered.com/app/4585340</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4585340/51add09e1efe9ada76b19a7350ce2a8c11252373/header_292x136.jpg?t=1786368110" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4585340</guid>
+      <pubDate>Wed, 12 Aug 2026 00:51:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
