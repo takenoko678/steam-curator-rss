@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 00:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 00:28:57 +0000</lastBuildDate>
     <item>
-      <title>Lucky Shot</title>
-      <link>https://store.steampowered.com/app/4092940</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4092940/ab12bc61fa5e7cf5ce1315bf80bb91bbec81348c/header_292x136.jpg?t=1786122445" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4092940</guid>
-      <pubDate>Sat, 15 Aug 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sandustry</title>
-      <link>https://store.steampowered.com/app/2764460</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/985a3a20945ec9c8e3e898e16cdaffe99d00e884/header_292x136.jpg?t=1786703049" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2764460</guid>
-      <pubDate>Sat, 15 Aug 2026 00:30:00 +0000</pubDate>
+      <title>THE CANON OF BALLS</title>
+      <link>https://store.steampowered.com/app/3962460</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3962460/f3cb3622d9524cf85ee5ea7d644f9dd6795a397f/header_292x136.jpg?t=1786732565" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3962460</guid>
+      <pubDate>Mon, 17 Aug 2026 00:28:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
