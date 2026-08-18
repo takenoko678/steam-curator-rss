@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 00:28:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 00:28:40 +0000</lastBuildDate>
     <item>
-      <title>THE CANON OF BALLS</title>
-      <link>https://store.steampowered.com/app/3962460</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3962460/f3cb3622d9524cf85ee5ea7d644f9dd6795a397f/header_292x136.jpg?t=1786732565" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3962460</guid>
-      <pubDate>Mon, 17 Aug 2026 00:28:57 +0000</pubDate>
+      <title>Cat Isle</title>
+      <link>https://store.steampowered.com/app/4018550</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4018550/91af4839bed085a213a320df216a855974583d18/header_292x136.jpg?t=1786035442" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4018550</guid>
+      <pubDate>Tue, 18 Aug 2026 00:28:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dodo Duckie</title>
+      <link>https://store.steampowered.com/app/3358170</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3358170/a5c63fced6dfd9f0a83650eb35332f0058636405/header_292x136.jpg?t=1786764009" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3358170</guid>
+      <pubDate>Tue, 18 Aug 2026 00:28:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
