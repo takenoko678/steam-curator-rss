@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 00:28:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 00:29:00 +0000</lastBuildDate>
     <item>
-      <title>Break Shoot</title>
-      <link>https://store.steampowered.com/app/4164140</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4164140/72b61feac7fad17c3180faa72b66d70686b6b17d/header_292x136.jpg?t=1786364617" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4164140</guid>
-      <pubDate>Wed, 19 Aug 2026 00:28:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tukoni: Forest Keepers</title>
-      <link>https://store.steampowered.com/app/2933200</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2933200/98106c7d2f33b592f9eae0e7f86521ed524bcce8/header_292x136_alt_assets_2.jpg?t=1787081427" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2933200</guid>
-      <pubDate>Wed, 19 Aug 2026 00:28:41 +0000</pubDate>
+      <title>Silent Shark</title>
+      <link>https://store.steampowered.com/app/4705650</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705650/9b3dae6406c23a4f04fddde5c8a341e8c837bbed/header_292x136.jpg?t=1786800639" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4705650</guid>
+      <pubDate>Thu, 20 Aug 2026 00:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
