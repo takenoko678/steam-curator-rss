@@ -7,76 +7,104 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 04:28:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:57:10 +0000</lastBuildDate>
     <item>
-      <title>The Gardens Between</title>
-      <link>https://store.steampowered.com/app/2751220</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/600990/header_292x136.jpg?t=1784510229" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2751220</guid>
-      <pubDate>Sat, 29 Aug 2026 04:28:28 +0000</pubDate>
+      <title>Willy Morgan and the Curse of Bone Town</title>
+      <link>https://store.steampowered.com/app/2671210</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097110/header_292x136.jpg?t=1780121241" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2671210</guid>
+      <pubDate>Sun, 30 Aug 2026 01:57:10 +0000</pubDate>
     </item>
     <item>
-      <title>Minesweeper: Collector</title>
-      <link>https://store.steampowered.com/app/1232150</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375930/header_292x136.jpg?t=1724601576" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1232150</guid>
-      <pubDate>Sat, 29 Aug 2026 04:28:28 +0000</pubDate>
+      <title>Glowkeeper</title>
+      <link>https://store.steampowered.com/app/1201550</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3410660/header_292x136.jpg?t=1783754595" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1201550</guid>
+      <pubDate>Sun, 30 Aug 2026 01:57:10 +0000</pubDate>
     </item>
     <item>
-      <title>Minesweeper: Collector</title>
-      <link>https://store.steampowered.com/app/792040</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375930/header_292x136.jpg?t=1724601576" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/792040</guid>
-      <pubDate>Sat, 29 Aug 2026 04:28:28 +0000</pubDate>
+      <title>Glowkeeper</title>
+      <link>https://store.steampowered.com/app/3410660</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3410660/header_292x136.jpg?t=1783754595" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3410660</guid>
+      <pubDate>Sun, 30 Aug 2026 01:57:10 +0000</pubDate>
     </item>
     <item>
-      <title>Minesweeper: Collector</title>
-      <link>https://store.steampowered.com/app/1375930</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375930/header_292x136.jpg?t=1724601576" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1375930</guid>
-      <pubDate>Sat, 29 Aug 2026 04:28:28 +0000</pubDate>
+      <title>FRAMED Collection</title>
+      <link>https://store.steampowered.com/app/583930</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322450/header_292x136.jpg?t=1757944393" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/583930</guid>
+      <pubDate>Sun, 30 Aug 2026 01:57:10 +0000</pubDate>
     </item>
     <item>
-      <title>Ruku's Heart Balloon</title>
-      <link>https://store.steampowered.com/app/3194140</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2337290/header_292x136.jpg?t=1763361561" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3194140</guid>
-      <pubDate>Sat, 29 Aug 2026 04:28:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ruku's Heart Balloon</title>
-      <link>https://store.steampowered.com/app/204240</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2337290/header_292x136.jpg?t=1763361561" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/204240</guid>
-      <pubDate>Sat, 29 Aug 2026 04:28:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ruku's Heart Balloon</title>
-      <link>https://store.steampowered.com/app/2337290</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2337290/header_292x136.jpg?t=1763361561" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2337290</guid>
-      <pubDate>Sat, 29 Aug 2026 04:28:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dungeons &amp; Jewels</title>
-      <link>https://store.steampowered.com/app/2966300</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2323980/header_292x136_alt_assets_0.jpg?t=1757993110" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2966300</guid>
-      <pubDate>Sat, 29 Aug 2026 04:28:28 +0000</pubDate>
+      <title>The Hand of Glory</title>
+      <link>https://store.steampowered.com/app/214340</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/961010/header_292x136.jpg?t=1787667598" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/214340</guid>
+      <pubDate>Sun, 30 Aug 2026 01:57:10 +0000</pubDate>
     </item>
     <item>
       <title>Genome Guardian</title>
-      <link>https://store.steampowered.com/app/2891310</link>
+      <link>https://store.steampowered.com/app/331870</link>
       <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/header_292x136.jpg?t=1785951338" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2891310</guid>
-      <pubDate>Sat, 29 Aug 2026 04:28:28 +0000</pubDate>
+      <guid isPermaLink="false">https://store.steampowered.com/app/331870</guid>
+      <pubDate>Sun, 30 Aug 2026 01:57:10 +0000</pubDate>
     </item>
     <item>
-      <title>Project Hospital</title>
-      <link>https://store.steampowered.com/app/2290000</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/header_292x136.jpg?t=1782218252" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2290000</guid>
-      <pubDate>Sat, 29 Aug 2026 04:28:28 +0000</pubDate>
+      <title>Genome Guardian</title>
+      <link>https://store.steampowered.com/app/421050</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/header_292x136.jpg?t=1785951338" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/421050</guid>
+      <pubDate>Sun, 30 Aug 2026 01:57:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chaos on Deponia</title>
+      <link>https://store.steampowered.com/app/241910</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220740/header_292x136.jpg?t=1776937681" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/241910</guid>
+      <pubDate>Sun, 30 Aug 2026 01:57:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chaos on Deponia</title>
+      <link>https://store.steampowered.com/app/220740</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220740/header_292x136.jpg?t=1776937681" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/220740</guid>
+      <pubDate>Sun, 30 Aug 2026 01:57:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lorelei and the Laser Eyes</title>
+      <link>https://store.steampowered.com/app/207690</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008920/a5346a6109802bb1711c391156814023073518be/header_292x136.jpg?t=1759241374" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/207690</guid>
+      <pubDate>Sun, 30 Aug 2026 01:57:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lorelei and the Laser Eyes</title>
+      <link>https://store.steampowered.com/app/40700</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008920/a5346a6109802bb1711c391156814023073518be/header_292x136.jpg?t=1759241374" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/40700</guid>
+      <pubDate>Sun, 30 Aug 2026 01:57:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ale &amp; Tale Tavern</title>
+      <link>https://store.steampowered.com/app/711660</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/2c88381f5697bb0d925a44c0db17f7778bac6a88/header_292x136.jpg?t=1787310432" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/711660</guid>
+      <pubDate>Sun, 30 Aug 2026 01:57:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ale &amp; Tale Tavern</title>
+      <link>https://store.steampowered.com/app/1455840</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/2c88381f5697bb0d925a44c0db17f7778bac6a88/header_292x136.jpg?t=1787310432" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/1455840</guid>
+      <pubDate>Sun, 30 Aug 2026 01:57:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ale &amp; Tale Tavern</title>
+      <link>https://store.steampowered.com/app/2683150</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/2c88381f5697bb0d925a44c0db17f7778bac6a88/header_292x136.jpg?t=1787310432" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2683150</guid>
+      <pubDate>Sun, 30 Aug 2026 01:57:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
