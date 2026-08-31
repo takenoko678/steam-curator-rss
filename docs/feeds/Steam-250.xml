@@ -7,13 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 01:57:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:52:51 +0000</lastBuildDate>
     <item>
-      <title>Chasing the Dawn / CTD</title>
-      <link>https://store.steampowered.com/app/3946120</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946120/0f44380f29211e2f5daf1250cf10ec294cfabf66/header_292x136.jpg?t=1784873207" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3946120</guid>
-      <pubDate>Sun, 30 Aug 2026 01:57:15 +0000</pubDate>
+      <title>Moon River</title>
+      <link>https://store.steampowered.com/app/3392490</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3392490/c9523fc3036b09146cfe58f4b10baf0b70c7d708/header_292x136.jpg?t=1787103391" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3392490</guid>
+      <pubDate>Mon, 31 Aug 2026 01:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beghost</title>
+      <link>https://store.steampowered.com/app/3957810</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3957810/128b0f7306f845cd31cea5741d4525285c2f6cec/header_292x136.jpg?t=1785572484" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3957810</guid>
+      <pubDate>Mon, 31 Aug 2026 01:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dungeon Gals</title>
+      <link>https://store.steampowered.com/app/2864880</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2864880/b64a07dc8eb5d490c17f68dbf673b06dcd0eca4a/header_292x136.jpg?t=1776883645" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2864880</guid>
+      <pubDate>Mon, 31 Aug 2026 01:52:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
