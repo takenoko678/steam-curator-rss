@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Sep 2026 01:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 01:31:11 +0000</lastBuildDate>
     <item>
-      <title>Dear Magical Girls</title>
-      <link>https://store.steampowered.com/app/4914610</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4914610/4b84dc8b6e23c91a12e1542a890cd0a39ac1557b/header_292x136.jpg?t=1785481212" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4914610</guid>
-      <pubDate>Fri, 04 Sep 2026 01:35:37 +0000</pubDate>
+      <title>How to Fish</title>
+      <link>https://store.steampowered.com/app/4001890</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header_292x136.jpg?t=1788160834" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4001890</guid>
+      <pubDate>Sun, 06 Sep 2026 01:31:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ShipShaper: Falconeer Chronicles</title>
+      <link>https://store.steampowered.com/app/4339280</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4339280/5aca1c7f43d962d99f1ebd922e11a146ae88e4e3/header_292x136_alt_assets_0.jpg?t=1788508231" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4339280</guid>
+      <pubDate>Sun, 06 Sep 2026 01:31:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
