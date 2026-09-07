@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 01:31:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 01:29:41 +0000</lastBuildDate>
     <item>
-      <title>How to Fish</title>
-      <link>https://store.steampowered.com/app/4001890</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header_292x136.jpg?t=1788160834" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4001890</guid>
-      <pubDate>Sun, 06 Sep 2026 01:31:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShipShaper: Falconeer Chronicles</title>
-      <link>https://store.steampowered.com/app/4339280</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4339280/5aca1c7f43d962d99f1ebd922e11a146ae88e4e3/header_292x136_alt_assets_0.jpg?t=1788508231" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4339280</guid>
-      <pubDate>Sun, 06 Sep 2026 01:31:11 +0000</pubDate>
+      <title>Rainbow Unicorn Dash</title>
+      <link>https://store.steampowered.com/app/3526730</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526730/header_292x136.jpg?t=1771681583" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3526730</guid>
+      <pubDate>Mon, 07 Sep 2026 01:29:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
