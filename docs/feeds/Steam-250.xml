@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Sep 2026 01:46:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:42:12 +0000</lastBuildDate>
     <item>
-      <title>Finding Polka</title>
-      <link>https://store.steampowered.com/app/4161140</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4161140/4971b547a32da5354747517edba53f555c3de1e1/header_292x136.jpg?t=1788519120" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4161140</guid>
-      <pubDate>Wed, 09 Sep 2026 01:46:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fuzz Dungeon</title>
-      <link>https://store.steampowered.com/app/1506080</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506080/6fbcb0d83a4098c3ac23c8714e0c73147144b721/header_292x136.jpg?t=1786048190" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/1506080</guid>
-      <pubDate>Wed, 09 Sep 2026 01:46:53 +0000</pubDate>
+      <title>Port of Jumanah</title>
+      <link>https://store.steampowered.com/app/2998920</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998920/d72137637d99816dd814d726b91fc47abc4fbea4/header_292x136.jpg?t=1788795781" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2998920</guid>
+      <pubDate>Thu, 10 Sep 2026 01:42:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
