@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Sep 2026 01:52:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 01:56:03 +0000</lastBuildDate>
     <item>
-      <title>Woodo</title>
-      <link>https://store.steampowered.com/app/2572040</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2572040/855b9217d1120b78326801255bd87c22ca05ea16/header_292x136_alt_assets_0.jpg?t=1789747374" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2572040</guid>
-      <pubDate>Sat, 19 Sep 2026 01:52:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your Fiancée</title>
-      <link>https://store.steampowered.com/app/4753760</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4753760/be76afbd80d15fb0933fdf46f0209205acd3a73c/header_292x136.jpg?t=1789661941" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4753760</guid>
-      <pubDate>Sat, 19 Sep 2026 01:52:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>20 More, Somehow Even Smaller, Mazes</title>
-      <link>https://store.steampowered.com/app/4428890</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428890/34797f41c520edc3a2711fb76bd87dfb1a6b6acb/header_292x136.jpg?t=1789665515" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4428890</guid>
-      <pubDate>Sat, 19 Sep 2026 01:52:23 +0000</pubDate>
+      <title>DR Dominoes</title>
+      <link>https://store.steampowered.com/app/4404610</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4404610/bf38c8d65a9d9288f24d6cd3da7f7c250b50f9a9/header_292x136.jpg?t=1789784601" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4404610</guid>
+      <pubDate>Mon, 21 Sep 2026 01:56:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
