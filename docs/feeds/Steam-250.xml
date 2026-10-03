@@ -7,34 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 02:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 02:32:00 +0000</lastBuildDate>
     <item>
-      <title>Future Knight</title>
-      <link>https://store.steampowered.com/app/4235410</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4235410/363336f8b72b7c00bf817104fd2f72cafb74c581/header_292x136.jpg?t=1786636237" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4235410</guid>
-      <pubDate>Thu, 01 Oct 2026 02:42:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>HIROTONFA’s American Revolution Smuggler</title>
-      <link>https://store.steampowered.com/app/3789080</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3789080/bab4541e6bfb127d97480081b2fe566458d4dd80/header_292x136.jpg?t=1790265860" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3789080</guid>
-      <pubDate>Thu, 01 Oct 2026 02:42:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>I AM YOUR BEAST VR</title>
-      <link>https://store.steampowered.com/app/3844740</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3844740/239ee560ee25352f6a61f0e48c4a4a9f7adf7475/header_292x136.jpg?t=1789664533" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3844740</guid>
-      <pubDate>Thu, 01 Oct 2026 02:42:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Antivirus Survivors 2003 Professional</title>
-      <link>https://store.steampowered.com/app/3832490</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3832490/19ec8cf9c754e295d6bc29870e1ed65f04b69988/header_292x136.jpg?t=1790609561" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3832490</guid>
-      <pubDate>Thu, 01 Oct 2026 02:42:02 +0000</pubDate>
+      <title>Draco and the Seven Scales</title>
+      <link>https://store.steampowered.com/app/2559690</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2559690/cc78180fa243778368190026dbbaace5cbafa62a/header_292x136.jpg?t=1789747581" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2559690</guid>
+      <pubDate>Sat, 03 Oct 2026 02:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
