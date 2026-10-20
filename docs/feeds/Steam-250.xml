@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Oct 2026 02:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 02:19:09 +0000</lastBuildDate>
     <item>
-      <title>Chomp Garden</title>
-      <link>https://store.steampowered.com/app/4457150</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4457150/38400342412b4be303679357558ecf6aa2ffa0b7/header_292x136.jpg?t=1791577737" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4457150</guid>
-      <pubDate>Mon, 19 Oct 2026 02:02:03 +0000</pubDate>
+      <title>Starlight Farm</title>
+      <link>https://store.steampowered.com/app/4317160</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4317160/1e15e27612e8c57e816bb798acc145a7356dfbdd/header_292x136.jpg?t=1792229943" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4317160</guid>
+      <pubDate>Tue, 20 Oct 2026 02:19:09 +0000</pubDate>
     </item>
     <item>
-      <title>NekoTrak</title>
-      <link>https://store.steampowered.com/app/5249210</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5249210/d3ff6eb306d18e4ec59def351b4370e7d93653b0/header_292x136.jpg?t=1791888839" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/5249210</guid>
-      <pubDate>Mon, 19 Oct 2026 02:02:03 +0000</pubDate>
+      <title>Alice Nation</title>
+      <link>https://store.steampowered.com/app/3755350</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3755350/972cb3191d5d15b31815d5ebd4e0a850fc02fc0f/header_292x136.jpg?t=1792123557" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3755350</guid>
+      <pubDate>Tue, 20 Oct 2026 02:19:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
