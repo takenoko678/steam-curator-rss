@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 02:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 02:06:47 +0000</lastBuildDate>
     <item>
-      <title>Starlight Farm</title>
-      <link>https://store.steampowered.com/app/4317160</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4317160/1e15e27612e8c57e816bb798acc145a7356dfbdd/header_292x136.jpg?t=1792229943" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4317160</guid>
-      <pubDate>Tue, 20 Oct 2026 02:19:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alice Nation</title>
-      <link>https://store.steampowered.com/app/3755350</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3755350/972cb3191d5d15b31815d5ebd4e0a850fc02fc0f/header_292x136.jpg?t=1792123557" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3755350</guid>
-      <pubDate>Tue, 20 Oct 2026 02:19:09 +0000</pubDate>
+      <title>Witch Cabin Cleanup</title>
+      <link>https://store.steampowered.com/app/4991240</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991240/9a2e44b7e898b056ecf29d08c9079750cc4558e3/header_292x136.jpg?t=1792148825" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4991240</guid>
+      <pubDate>Thu, 22 Oct 2026 02:06:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
