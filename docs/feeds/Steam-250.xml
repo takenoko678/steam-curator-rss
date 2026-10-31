@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 03:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 02:55:28 +0000</lastBuildDate>
     <item>
-      <title>the white chamber</title>
-      <link>https://store.steampowered.com/app/299080</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/299080/header_292x136.jpg?t=1697880520" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/299080</guid>
-      <pubDate>Fri, 30 Oct 2026 03:09:38 +0000</pubDate>
+      <title>Tidy Up the Town</title>
+      <link>https://store.steampowered.com/app/5190030</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5190030/123fddaa8cbd6b05f4935df50a357a12c0cafe5b/header_292x136_alt_assets_0.jpg?t=1793105970" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/5190030</guid>
+      <pubDate>Sat, 31 Oct 2026 02:55:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Virtue and a Sledgehammer</title>
+      <link>https://store.steampowered.com/app/3743260</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3743260/93488f22c9da9e61dd2b9092d149695bcc846e71/header_292x136.jpg?t=1793197089" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3743260</guid>
+      <pubDate>Sat, 31 Oct 2026 02:55:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
