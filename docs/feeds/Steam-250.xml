@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 03:52:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 03:26:31 +0000</lastBuildDate>
     <item>
-      <title>Allogloom</title>
-      <link>https://store.steampowered.com/app/2644100</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/a44243580cd557cdef871825a4077120103a85cf/header_292x136.jpg?t=1792664738" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/2644100</guid>
-      <pubDate>Fri, 06 Nov 2026 03:52:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>HELENA : Cloud District</title>
-      <link>https://store.steampowered.com/app/5190580</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5190580/1f274f8282617700a1da4fd43b33d17e7fee7218/header_292x136.jpg?t=1793300989" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/5190580</guid>
-      <pubDate>Fri, 06 Nov 2026 03:52:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Horses of Hoofprint Bay</title>
-      <link>https://store.steampowered.com/app/3727090</link>
-      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3727090/05ecc629bbeefe5b64ea3acc33da82009bccf968/header_292x136.jpg?t=1793830906" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3727090</guid>
-      <pubDate>Fri, 06 Nov 2026 03:52:16 +0000</pubDate>
+      <title>Stick A Fork</title>
+      <link>https://store.steampowered.com/app/5345040</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5345040/c645c3bbc12d473bc96963aabe376e7016894166/header_292x136.jpg?t=1793880942" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/5345040</guid>
+      <pubDate>Sat, 07 Nov 2026 03:26:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
