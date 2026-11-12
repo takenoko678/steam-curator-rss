@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 03:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:33:13 +0000</lastBuildDate>
     <item>
-      <title>Curse of Resthaven</title>
-      <link>https://store.steampowered.com/app/3796150</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3796150/4704d826ca663092c2f9b71e2ca77f04a779399d/header_292x136.jpg?t=1794236286" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/3796150</guid>
-      <pubDate>Wed, 11 Nov 2026 03:23:06 +0000</pubDate>
+      <title>Dashoot: ABYA's Adventure</title>
+      <link>https://store.steampowered.com/app/2670430</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2670430/d8ea9e68e049e9772de2ea153be564c90f98e28b/header_292x136.jpg?t=1794456117" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2670430</guid>
+      <pubDate>Thu, 12 Nov 2026 04:33:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAVE AMANI</title>
+      <link>https://store.steampowered.com/app/3153280</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3153280/a2134431d1cccb15a8f0f0d30fb56b0697564d3e/header_292x136.jpg?t=1794396128" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3153280</guid>
+      <pubDate>Thu, 12 Nov 2026 04:33:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
