@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 03:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 03:24:24 +0000</lastBuildDate>
     <item>
-      <title>ALTEREDBLOOD+ [AB+]</title>
-      <link>https://store.steampowered.com/app/4318080</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4318080/b66f45fc9e1549ec46a6142d1e975359e5474e3a/header_292x136.jpg?t=1794199792" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4318080</guid>
-      <pubDate>Sat, 14 Nov 2026 03:45:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Towers of Babble</title>
-      <link>https://store.steampowered.com/app/4984400</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4984400/9f2019f0d1bd42e9e5a17e93b3a5ec119f874f87/header_292x136.jpg?t=1794347976" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4984400</guid>
-      <pubDate>Sat, 14 Nov 2026 03:45:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Love, Death &amp; My Daughter</title>
-      <link>https://store.steampowered.com/app/5105650</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5105650/13dbfbecdf4f8a5917951153af4ff3fb1a4f4625/header_292x136.jpg?t=1794485125" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/5105650</guid>
-      <pubDate>Sat, 14 Nov 2026 03:45:40 +0000</pubDate>
+      <title>Drawquarium</title>
+      <link>https://store.steampowered.com/app/4045480</link>
+      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4045480/84e76865a2649679dfb1687354ba0e5a05f44b0b/header_292x136.jpg?t=1794578546" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/4045480</guid>
+      <pubDate>Sun, 15 Nov 2026 03:24:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
