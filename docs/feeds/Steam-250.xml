@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 03:24:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 03:25:13 +0000</lastBuildDate>
     <item>
-      <title>Drawquarium</title>
-      <link>https://store.steampowered.com/app/4045480</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4045480/84e76865a2649679dfb1687354ba0e5a05f44b0b/header_292x136.jpg?t=1794578546" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4045480</guid>
-      <pubDate>Sun, 15 Nov 2026 03:24:24 +0000</pubDate>
+      <title>Wild West : The Last Cowboy</title>
+      <link>https://store.steampowered.com/app/3652620</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3652620/04cad06fc0c007c54602cc1a4c289b9f8fd9eb7b/header_292x136.jpg?t=1762931430" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/3652620</guid>
+      <pubDate>Mon, 16 Nov 2026 03:25:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neo Junk City</title>
+      <link>https://store.steampowered.com/app/2378230</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378230/2f07bd838528c28d9ce0c55bdac29db46e4189b2/header_292x136.jpg?t=1794241763" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/2378230</guid>
+      <pubDate>Mon, 16 Nov 2026 03:25:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
