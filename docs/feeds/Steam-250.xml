@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:52:24 +0000</lastBuildDate>
     <item>
-      <title>Bottled by Bears</title>
-      <link>https://store.steampowered.com/app/4390080</link>
-      <description>&lt;img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4390080/2d72fb041335f66b827b1ec3db8191c70aab4642/header_292x136.jpg?t=1794684185" /&gt;</description>
-      <guid isPermaLink="false">https://store.steampowered.com/app/4390080</guid>
-      <pubDate>Tue, 17 Nov 2026 05:25:22 +0000</pubDate>
+      <title>MATE, This Place is a MESS!</title>
+      <link>https://store.steampowered.com/app/5365570</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365570/5045bca95b8856af6788df93a78febcbf484b95e/header_292x136.jpg?t=1794610784" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/5365570</guid>
+      <pubDate>Wed, 18 Nov 2026 04:52:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>just volleyball</title>
+      <link>https://store.steampowered.com/app/5037200</link>
+      <description>&lt;img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header_292x136.jpg?t=1794852941" /&gt;</description>
+      <guid isPermaLink="false">https://store.steampowered.com/app/5037200</guid>
+      <pubDate>Wed, 18 Nov 2026 04:52:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
